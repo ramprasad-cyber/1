@@ -1,0 +1,12 @@
+{
+  "name": "gym-managment1",
+  "version": "1.0.0",
+  "description": "SQLite example for the ram table",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
